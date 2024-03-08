@@ -1,3 +1,5 @@
+**Note: this repository has bee moved into [Sitefox](https://github.com/chr15m/sitefox/tree/main/create).**
+
 Set up a full-stack ClojureScript web server in one command using
 [sitefox](https://github.com/chr15m/sitefox)
 and [shadow-cljs](https://shadow-cljs.github.io/docs/UsersGuide.html).
